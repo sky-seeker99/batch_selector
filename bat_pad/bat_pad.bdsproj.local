@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/10/11 10:49:07.468.cpp,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.cpp=C:\hpdata\csvpp_source_tc\bat_pad\_bat_pad.cpp</Transaction>
+    <Transaction>2008/10/11 10:49:07.468.h,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.h=C:\hpdata\csvpp_source_tc\bat_pad\_bat_pad.h</Transaction>
+    <Transaction>2008/10/11 10:49:07.468.dfm,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.dfm=C:\hpdata\csvpp_source_tc\bat_pad\_bat_pad.dfm</Transaction>
+    <Transaction>2008/10/11 10:49:15.718.bdsproj,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Project1.bdsproj=C:\hpdata\csvpp_source_tc\bat_pad\bat_pad.bdsproj</Transaction>
+    <Transaction>2008/10/11 12:21:51.406.cpp,C:\hpdata\csvpp_source_tc\bat_pad\Unit2.cpp=C:\hpdata\csvpp_source_tc\bat_pad\_edit.cpp</Transaction>
+    <Transaction>2008/10/11 12:21:51.406.h,C:\hpdata\csvpp_source_tc\bat_pad\Unit2.h=C:\hpdata\csvpp_source_tc\bat_pad\_edit.h</Transaction>
+    <Transaction>2008/10/11 12:21:51.406.dfm,C:\hpdata\csvpp_source_tc\bat_pad\Unit2.dfm=C:\hpdata\csvpp_source_tc\bat_pad\_edit.dfm</Transaction>
+    <Transaction>2010/07/11 14:32:00.453.lib,C:\hpdata\csvpp_source_tc\csvpp_xbase\Release_Build\xbase.lib=</Transaction>
+  </Transactions>
+</BorlandProject>

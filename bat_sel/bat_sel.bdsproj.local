@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/09/20 11:09:46.296.cpp,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.cpp=C:\hpdata\csvpp_source_tc\bat_sel\_bat_sel.cpp</Transaction>
+    <Transaction>2008/09/20 11:09:46.296.h,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.h=C:\hpdata\csvpp_source_tc\bat_sel\_bat_sel.h</Transaction>
+    <Transaction>2008/09/20 11:09:46.296.dfm,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Unit1.dfm=C:\hpdata\csvpp_source_tc\bat_sel\_bat_sel.dfm</Transaction>
+    <Transaction>2008/09/20 11:09:53.203.bdsproj,C:\Documents and Settings\kasuya99\My Documents\Borland Studio Projects\Project1.bdsproj=C:\hpdata\csvpp_source_tc\bat_sel\bat_sel.bdsproj</Transaction>
+    <Transaction>2008/09/20 11:25:27.781.cpp,C:\hpdata\csvpp_source_tc\bat_sel\Unit2.cpp=C:\hpdata\csvpp_source_tc\bat_sel\editor.cpp</Transaction>
+    <Transaction>2008/09/20 11:25:27.781.h,C:\hpdata\csvpp_source_tc\bat_sel\Unit2.h=C:\hpdata\csvpp_source_tc\bat_sel\editor.h</Transaction>
+    <Transaction>2008/09/20 11:25:27.781.dfm,C:\hpdata\csvpp_source_tc\bat_sel\Unit2.dfm=C:\hpdata\csvpp_source_tc\bat_sel\editor.dfm</Transaction>
+    <Transaction>2008/09/20 11:31:59.921.cpp,C:\hpdata\csvpp_source_tc\bat_sel\Unit3.cpp=C:\hpdata\csvpp_source_tc\bat_sel\input.cpp</Transaction>
+    <Transaction>2008/09/20 11:31:59.921.h,C:\hpdata\csvpp_source_tc\bat_sel\Unit3.h=C:\hpdata\csvpp_source_tc\bat_sel\input.h</Transaction>
+    <Transaction>2008/09/20 11:31:59.921.dfm,C:\hpdata\csvpp_source_tc\bat_sel\Unit3.dfm=C:\hpdata\csvpp_source_tc\bat_sel\input.dfm</Transaction>
+    <Transaction>2010/07/11 14:38:36.031.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xstr.cpp=</Transaction>
+    <Transaction>2010/08/28 22:46:04.062.lib,C:\hpdata\csvpp_source_tc\csvpp_xbase\Release_Build\xbase.lib=</Transaction>
+    <Transaction>2010/08/29 09:03:57.750.cpp,C:\hpdata\csvpp_source_tc\bat_sel\Unit4.cpp=C:\hpdata\csvpp_source_tc\bat_sel\job_unit.cpp</Transaction>
+    <Transaction>2010/08/29 09:03:57.750.h,C:\hpdata\csvpp_source_tc\bat_sel\Unit4.h=C:\hpdata\csvpp_source_tc\bat_sel\job_unit.h</Transaction>
+    <Transaction>2010/08/29 09:03:57.750.dfm,C:\hpdata\csvpp_source_tc\bat_sel\Unit4.dfm=C:\hpdata\csvpp_source_tc\bat_sel\job_unit.dfm</Transaction>
+    <Transaction>2010/09/23 20:21:05.640.cpp,C:\hpdata\csvpp_source_tc\bat_sel\editor.cpp=</Transaction>
+    <Transaction>2010/09/23 20:21:05.640.dfm,C:\hpdata\csvpp_source_tc\bat_sel\editor.dfm=</Transaction>
+    <Transaction>2011/01/05 22:25:34.781.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xlist.cpp=</Transaction>
+    <Transaction>2011/01/05 22:25:37.703.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xtool.cpp=</Transaction>
+    <Transaction>2011/01/05 22:26:56.859.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xcsvi.cpp=</Transaction>
+    <Transaction>2011/01/05 22:26:59.843.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xfile.cpp=</Transaction>
+    <Transaction>2011/01/05 22:27:02.484.cpp,C:\hpdata\csvpp_source_tc\csvpp_xbase\xprintf.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
