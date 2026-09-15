@@ -1,7 +1,7 @@
-Batch Selector — A GUI batch file manager and launcher for Windows.
-Batch Selector is a Windows utility for managing and executing batch files with drag & drop, multiple file processing, parallel execution, batch pads, and remote job execution.
+<!-- Batch Selector — A GUI batch file manager and launcher for Windows.
+Batch Selector is a Windows utility for managing and executing batch files with drag & drop, multiple file processing, parallel execution, batch pads, and remote job execution. -->
 
-# <img width="384" height="256" alt="batch_selector_s" src="https://github.com/user-attachments/assets/0602d807-4149-4636-bd4b-39d10731f1ae" />
+# <img width="192" height="128" alt="batch_selector_s" src="https://github.com/user-attachments/assets/0602d807-4149-4636-bd4b-39d10731f1ae" />
 
 **Windows向けのGUIバッチファイル管理・実行ツール**
 
