@@ -3,6 +3,10 @@
 
 # <img width="288" height="192" alt="batch_selector_s" src="https://github.com/user-attachments/assets/0602d807-4149-4636-bd4b-39d10731f1ae" />
 
+![License](https://img.shields.io/badge/license-GPL--2.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
+
 **Windows向けのGUIバッチファイル管理・実行ツール**
 
 ドラッグ＆ドロップでバッチファイルを簡単に実行できます。  
