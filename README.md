@@ -134,11 +134,11 @@ Batch Selectorには、リモート環境でJOBを実行するための機能が
 詳しい操作方法や各機能については、以下のマニュアルを参照してください。
 
 - **バッチ実行セレクター マニュアル**
-  - `bat_sel_manual.md`
+  - [bat_sel_manual.md](https://github.com/sky-seeker99/batch_selector/blob/main/bat_sel_manual.md)
 
 - **バッチ実行パッド マニュアル**
-  - `bat_pad_manual.md`
-
+  - [bat_pad_manual.md](https://github.com/sky-seeker99/batch_selector/blob/main/bat_pad_manual.md)
+  
 ---
 
 ## 10. ファイル構成
