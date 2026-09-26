@@ -1,0 +1,5 @@
+batch_selector
+Copyright 2026 Shigeru Kasuya
+
+This product includes software developed by Shigeru Kasuya.
+
