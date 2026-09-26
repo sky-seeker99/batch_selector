@@ -3,7 +3,7 @@
 
 # <img width="288" height="192" alt="batch_selector_s" src="https://github.com/user-attachments/assets/0602d807-4149-4636-bd4b-39d10731f1ae" />
 
-![License](https://img.shields.io/badge/license-GPL--2.0-blue.svg)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
 
@@ -92,7 +92,7 @@ Windows上で動作するスタンドアロンアプリケーションとして�
 
 ## ダウンロード
 
-- [bat_sel121b_20260915.zip](https://github.com/sky-seeker99/batch_selector/releases/download/ver1.21b_20260915/bat_sel121b_20260915.zip)
+- [bat_sel121b_20260926.zip](https://github.com/sky-seeker99/batch_selector/releases/download/ver1.21b_20260926/bat_sel121b_20260926.zip)
 
 ---
 
