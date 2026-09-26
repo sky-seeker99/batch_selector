@@ -1,4 +1,11 @@
-# Batch Selector
+<!-- Batch Selector - A GUI batch file manager and launcher for Windows. -->
+<!-- Batch Selector is a Windows utility for managing and executing batch files with drag & drop, multiple file processing, parallel execution, batch pads, and remote job execution. -->
+
+# <img width="288" height="192" alt="batch_selector_s" src="https://github.com/user-attachments/assets/0602d807-4149-4636-bd4b-39d10731f1ae" />
+
+![License](https://img.shields.io/badge/license-GPL--2.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
 
 **Windows向けのGUIバッチファイル管理・実行ツール**
 
@@ -7,7 +14,7 @@
 
 ---
 
-## 1. 概要
+## 概要
 
 **Batch Selector（バッチ実行セレクター）** は、Windows上でバッチファイル（`.bat`）をGUIから簡単に実行するためのツールです。
 
@@ -19,7 +26,9 @@ Batch Selectorでは、バッチファイルをウィンドウへ**ドラッグ�
 
 ---
 
-## 2. 主な特徴
+
+
+## 主な特徴
 
 ### ドラッグ＆ドロップで実行
 
@@ -59,7 +68,7 @@ Batch Selector独自のパラメータ指定にも対応しています。
 
 ---
 
-## 3. このような用途に
+## このような用途に
 
 Batch Selectorは、例えば次のような用途で利用できます。
 
@@ -73,7 +82,7 @@ Batch Selectorは、例えば次のような用途で利用できます。
 
 ---
 
-## 4. 動作環境
+## 動作環境
 
 - Microsoft Windows
 
@@ -81,7 +90,13 @@ Windows上で動作するスタンドアロンアプリケーションとして�
 
 ---
 
-## 5. 使い方
+## ダウンロード
+
+- [bat_sel121b_20260915.zip](https://github.com/sky-seeker99/batch_selector/releases/download/ver1.21b_20260915/bat_sel121b_20260915.zip)
+
+---
+
+## 使い方
 
 ### 基本的な使い方
 
@@ -94,7 +109,7 @@ Windows上で動作するスタンドアロンアプリケーションとして�
 
 ---
 
-## 6. バッチ実行パッド
+## バッチ実行パッド
 
 **バッチ実行パッド（bat_pad）** を使用すると、よく使用するバッチファイルを登録しておき、GUIから簡単に実行できます。
 
@@ -102,7 +117,7 @@ Windows上で動作するスタンドアロンアプリケーションとして�
 
 ---
 
-## 7. バッチファイルのパラメータ
+## バッチファイルのパラメータ
 
 Batch Selectorでは、ドラッグ＆ドロップされたファイルやフォルダーなどの情報をバッチファイルへ渡すことができます。
 
@@ -112,7 +127,7 @@ Batch Selectorでは、ドラッグ＆ドロップされたファイルやフォ
 
 ---
 
-## 8. リモートJOB実行
+## リモートJOB実行
 
 Batch Selectorには、リモート環境でJOBを実行するための機能があります。
 
@@ -122,16 +137,16 @@ Batch Selectorには、リモート環境でJOBを実行するための機能が
 
 ---
 
-## 9. マニュアル
+## マニュアル
 
 詳しい操作方法や各機能については、以下のマニュアルを参照してください。
 
 - **バッチ実行セレクター マニュアル**
-  - `bat_sel_manual.md`
+  - [bat_sel_manual.md](https://github.com/sky-seeker99/batch_selector/blob/main/bat_sel_manual.md)
 
 - **バッチ実行パッド マニュアル**
-  - `bat_pad_manual.md`
-
+  - [bat_pad_manual.md](https://github.com/sky-seeker99/batch_selector/blob/main/bat_pad_manual.md)
+  
 ---
 
 ## 10. ファイル構成
@@ -154,7 +169,7 @@ batch_selector/
 
 ---
 
-## 11. 特徴的な機能
+## 特徴的な機能
 
 Batch Selectorでは、通常のバッチファイル実行だけでなく、バッチ処理をより柔軟に行うための機能を備えています。
 
@@ -186,13 +201,13 @@ Batch Selectorでは、通常のバッチファイル実行だけでなく、バ
 
 ---
 
-## 12. ライセンス
+## ライセンス
 
 本ソフトウェアのライセンスについては、リポジトリ内の `LICENSE` ファイルを参照してください。
 
 ---
 
-## 13. 作者
+## 作者
 
 **sky-seeker99**
 
@@ -202,13 +217,13 @@ https://github.com/sky-seeker99/batch_selector
 
 ---
 
-## 14. 履歴
+## 履歴
 
 今後、機能追加や改善を行っていく予定です。
 
 ---
 
-## 15. 最後に
+## 最後に
 
 Batch Selectorは、Windowsでバッチファイルをよく利用する方が、**「もっと簡単にバッチを実行したい」**という目的で利用できるツールです。
 
